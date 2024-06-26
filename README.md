@@ -43,14 +43,14 @@ Então, adaptei o modelo Gemini para ser um chat que interpreta imagens e respon
 ### Exemplos de utilização do Chatbot
 
 #### Rodizio
-![Chatbot_Sushiba-Rodizio](https://github.com/Leo-lds/Chatbot_Sushiba/assets/169949808/4d91a51a-2ae7-4f9b-a4d0-ae0a200b1e77)    
+![Chatbot_Sushiba-Rodizio](./Assets/Chatbot_Sushiba-Rodizio.gif)    
 
 #### Pedidos
 
-![Chatbot_Sushiba-Atendente](https://github.com/Leo-lds/Chatbot_Sushiba/blob/main/Assets/Chatbot_Sushiba-Pedido.gif)
+![Chatbot_Sushiba-Atendente](./Assets/Chatbot_Sushiba-Pedido.gif)
 
 #### Atendimento
-![Chatbot_Sushiba-Atendente](https://github.com/Leo-lds/Chatbot_Sushiba/assets/169949808/0aea9645-855d-4f4f-9a9e-00405a21f4cf)
+![Chatbot_Sushiba-Atendente](./Assets/Chatbot_Sushiba-Atendente.gif)
 
 ## Contato
 - **Email:** leoldsgn@gmail.com
