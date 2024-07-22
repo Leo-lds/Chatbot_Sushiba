@@ -14,7 +14,6 @@ Então, adaptei o modelo Gemini para ser um chat que interpreta imagens e respon
 ## Tecnologias Utilizadas
 - **Google Generative AI:** Utilização do SDK `google-generativeai` para processamento de linguagem natural. (Gemini)
 - **PIL (Python Imaging Library):** Manipulação e análise de imagens.
-- **Google Colab:** Ambiente para desenvolvimento e execução do código.
 
 ## Configuração e Uso
 
@@ -55,6 +54,3 @@ Então, adaptei o modelo Gemini para ser um chat que interpreta imagens e respon
 ## Contato
 - **Email:** leoldsgn@gmail.com
 - **LinkedIn:** https://linkedin.com/in/leoldsgn
-
----
-Obrigado por conferir este projeto! Se você gostou, não se esqueça de dar uma estrela no repositório.
