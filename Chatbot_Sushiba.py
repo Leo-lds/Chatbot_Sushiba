@@ -6,15 +6,13 @@ import PIL.Image
 import urllib.request
 from IPython.display import display
 from IPython.display import Markdown
+import os
+from dotenv import load_dotenv
 
 #Coloque sua key.
-genai.configure(api_key='AIzaSyDnMazny0fvjv1TC0_j8eXntRC9GtaYPAo')
-
-#Função para tornar o retorno em Markdown
-def to_markdown(text):
-    text = text.replace('•', '  *')
-    return Markdown(textwrap.indent(text, '> ', predicate=lambda _: True))
-
+load_dotenv()
+key = os.getenv("api_key")
+genai.configure(api_key=key)
 
 # Aqui vemos todos os modelos disponiveis para utilizar (Essa lista é atualizada sempre que houver uma nova versão)
 # for m in genai.list_models():
